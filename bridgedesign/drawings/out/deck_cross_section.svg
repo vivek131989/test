@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="792" height="296" viewBox="0 0 792 296">
+  <defs>
+    <linearGradient id="deckFill" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0%" stop-color="#d9e2ec"/>
+      <stop offset="100%" stop-color="#bcccdc"/>
+    </linearGradient>
+  </defs>
+  <rect width="100%" height="100%" fill="#f5f7fa"/>
+  <text x="60" y="28" font-family="Georgia, serif" font-size="18" fill="#102a43">
+    Kunwari River – RCC Voided Slab Cross-Section
+  </text>
+  <text x="60" y="48" font-family="Georgia, serif" font-size="12" fill="#486581">
+    Deck 8.4 m × 1.2 m | 4 Ø 0.6 m voids | Carriageway 7.5 m | MP PWD
+  </text>
+  <polygon points="60,60 732.0,60 732.0,72.0 624.0,156.0 168.0,156.0 60,72.0" fill="url(#deckFill)" stroke="#102a43" stroke-width="2.5"/>
+  <circle cx="252.0" cy="108.0" r="24.0" fill="#f7f3ea" stroke="#1f3a5f" stroke-width="2"/>
+<circle cx="348.0" cy="108.0" r="24.0" fill="#f7f3ea" stroke="#1f3a5f" stroke-width="2"/>
+<circle cx="444.0" cy="108.0" r="24.0" fill="#f7f3ea" stroke="#1f3a5f" stroke-width="2"/>
+<circle cx="540.0" cy="108.0" r="24.0" fill="#f7f3ea" stroke="#1f3a5f" stroke-width="2"/>
+  <!-- Dimension: overall width -->
+  <line x1="60" y1="184.0" x2="732.0" y2="184.0" stroke="#334e68" stroke-width="1.5"/>
+  <text x="396.0" y="204.0" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#334e68">8.40 m</text>
+  <!-- Depth -->
+  <line x1="752.0" y1="60" x2="752.0" y2="156.0" stroke="#334e68" stroke-width="1.5"/>
+  <text x="760.0" y="108.0" font-family="Georgia, serif" font-size="13" fill="#334e68">1.20 m</text>
+  <text x="60" y="280" font-family="Georgia, serif" font-size="11" fill="#829ab1">
+    As per DESIGN-MPPWD-JPSG-KUWARI_RIVER-R0-2P · voids 18.52% &lt; 40% (IRC SP 64)
+  </text>
+</svg>

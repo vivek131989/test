@@ -1,0 +1,11 @@
+component,location,bar,spacing_mm,ast_mm2_per_m,status,source
+Deck slab,Top mid-span,16 mm dia,104,1933,OK,§6.0
+Deck slab,Bottom mid-span main+extra,32 mm dia,104,15466,OK,§6.0
+Deck slab,Distribution (both faces),16 mm dia,125,3217,OK,§6.0 / IRC:112 cl.16.6.1.1
+Deck slab,Shear links at support,12 mm dia,"100 long / 500 trans",—,OK,§6.0
+Cantilever,Top of slab,12+16 mm dia,150,2094,OK,pp.20-21
+Well steining,Outer face,136-16 mm dia,—,27344,OK,IRC:78
+Well steining,Inner face,136-16 mm dia,—,27344,OK,IRC:78
+Well steining,Hoops both faces,10 mm dia,200,—,OK,IRC:78
+Stopper,Main bars,25 mm dia,—,—,OK,Annex
+Stopper,Stirrups,12 mm dia,—,—,OK,Annex
